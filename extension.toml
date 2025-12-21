@@ -1,0 +1,11 @@
+id = "libconfig"
+name = "libconfig"
+description = "libconfig language support for configuration files"
+version = "0.1.0"
+schema_version = 1
+authors = ["Vietlubu"]
+repository = "https://github.com/vietlubu/zed-libconfig"
+
+[grammars.libconfig]
+repository = "https://github.com/vietlubu/tree-sitter-libconfig"
+rev = "72ba747b984be60801048de1dfecc8b3c2ef2a53"
